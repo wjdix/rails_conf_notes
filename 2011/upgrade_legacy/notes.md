@@ -5,6 +5,8 @@
 
 [Rails 3 Upgrade Links](http://bit.ly/rails3up)    
 
+[Presentation Slides](http://www.slideshare.net/crnixon/rails-3-7983843)
+
 ## Reasons To upgrade ##
 
 10. Arel syntax is cool, delays query. 
